@@ -71,16 +71,6 @@ An interactive Power BI dashboard was developed to explore customer review data 
 - Customer age analysis
 - Positive feedback analysis
 
-### Dashboard Screenshots
-
-Add your Power BI dashboard screenshots in the `visuals` folder and update the image paths below.
-
-![Main Dashboard](visuals/main_dashboard.png)
-
-![Product Review Analysis](visuals/product_review_analysis.png)
-
-![Customer Age Analysis](visuals/customer_age_analysis.png)
-
 ## Project Structure
 
 ```text
